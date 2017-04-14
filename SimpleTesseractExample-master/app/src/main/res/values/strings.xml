@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Read_Text</string>
+    <string-array name="photo_dialog_options">
+        <item>Pick a Photo</item>
+        <item>Take a Photo</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
